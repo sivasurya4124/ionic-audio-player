@@ -49,6 +49,6 @@ Thanks to the following posts and sources, I was able to come up with this solut
 
 ## Author
 
-Created by suriya(https://lxieyang.github.io)
+Created by suriya
 
 Last updated: jan 26 2020
